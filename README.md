@@ -236,3 +236,6 @@ This repository serves as the official landing page for AnyToISO. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AnyToISO today!**
+
+---
+**Last updated:** 2026-09-07 19:01:17 UTC
