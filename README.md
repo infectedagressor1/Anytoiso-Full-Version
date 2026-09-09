@@ -238,4 +238,4 @@ This repository serves as the official landing page for AnyToISO. The software i
 **Get the most recent version of AnyToISO today!**
 
 ---
-**Last updated:** 2026-09-09 17:37:57 UTC
+**Last updated:** 2026-09-09 20:34:35 UTC
